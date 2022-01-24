@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A Junior backend developer from Turkey.</h3>
 
-<p align="center">- 🌱 I’m currently learning **C# and Java**
+<p align="center"> 
+  - 🌱 I’m currently learning **C# and Java**
   - 📫 If you want to reach me -> **fa.yapici@gmail.com**
 </p>
-
-
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
