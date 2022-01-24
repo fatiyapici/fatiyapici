@@ -3,7 +3,7 @@
 
 <p align="center"> 
   - 🌱 I’m currently learning **C# and Java**
-  - 📫 If you want to reach me -> fa.yapici@gmail.com
+  - 📫 If you want to reach me -> **fa.yapici@gmail.com**
 </p>
 
 <h3 align="center">Connect with me:</h3>
