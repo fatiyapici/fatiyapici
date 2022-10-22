@@ -4,7 +4,7 @@
 <h4 align="center"> 🌱 I’m currently learning C# and .NET Core Framework</h4>
 <h4 align="center"> 📫 If you want to reach me -> fa.yapici@gmail.com</h4>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatih-yap%c4%b1c%c4%b1-872575156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatih-yap%c4%b1c%c4%b1-872575156/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17170725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17170725" height="30" width="40" /></a>
